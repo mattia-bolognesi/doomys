@@ -8,7 +8,7 @@ from plot import main_graph, lp_insights, reward_token_insights
 st.set_page_config(layout="wide",
                     page_title="Doomy's: The De-Fi rating provider",
                     page_icon="🧊",
-                    menu_items={'Get Help': 'https://www.extremelycoolapp.com/help'})
+                    menu_items={'Get in touch': 'm.bolognesi95@gmail.com'})
 
 st.title("Doomy's: The De-Fi rating provider")
 
