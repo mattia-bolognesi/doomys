@@ -1,8 +1,6 @@
-from matplotlib.pyplot import text
 import plotly.express as px
 import pandas as pd
 import plotly.graph_objects as go
-import json
 from plotly.subplots import make_subplots
 
 def main_graph(df: pd.DataFrame):
