@@ -1,0 +1,453 @@
+{
+    "1USDC_Harmony_Tranquil": {
+        "name": "1USDC",
+        "chain": "Harmony",
+        "protocol": "Tranquil",
+        "rewards_token": {
+            "TRANQ": 0.02072887766350595
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC.E_Avalanche_Aave": {
+        "name": "USDC.E",
+        "chain": "Avalanche",
+        "protocol": "Aave",
+        "rewards_token": {
+            "AVAX": 0.019310704057525042
+        },
+        "risk": 1,
+        "is_new": false,
+        "active": true
+    },
+    "USDC.e_Avalanche_Cream": {
+        "name": "USDC.e",
+        "chain": "Avalanche",
+        "protocol": "Cream",
+        "rewards_token": {},
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC.e_Avalanche_Platypus": {
+        "name": "USDC.e",
+        "chain": "Avalanche",
+        "protocol": "Platypus",
+        "rewards_token": {
+            "vePTP": 0.126
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDCe_Avalanche_Beefy": {
+        "name": "USDCe",
+        "chain": "Avalanche",
+        "protocol": "Beefy",
+        "rewards_token": {},
+        "risk": 2,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Arbitrum_cBridge": {
+        "name": "USDC",
+        "chain": "Arbitrum",
+        "protocol": "cBridge",
+        "rewards_token": {
+            "CELR": 0.20084600380401962
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Arbitrum_Cream": {
+        "name": "USDC",
+        "chain": "Arbitrum",
+        "protocol": "Cream",
+        "rewards_token": {},
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Astar_cBridge": {
+        "name": "USDC",
+        "chain": "Astar",
+        "protocol": "cBridge",
+        "rewards_token": {
+            "CELR": 0.24121630982482167
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Aurora_cBridge": {
+        "name": "USDC",
+        "chain": "Aurora",
+        "protocol": "cBridge",
+        "rewards_token": {
+            "CELR": 0.06989095928116851
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Avalanche_Benqi": {
+        "name": "USDC",
+        "chain": "Avalanche",
+        "protocol": "Benqi",
+        "rewards_token": {},
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Avalanche_cBridge": {
+        "name": "USDC",
+        "chain": "Avalanche",
+        "protocol": "cBridge",
+        "rewards_token": {
+            "CELR": 0.10988677305952055
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Avalanche_Platypus": {
+        "name": "USDC",
+        "chain": "Avalanche",
+        "protocol": "Platypus",
+        "rewards_token": {
+            "vePTP": 0.115
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_BNB Chain_ACryptoS": {
+        "name": "USDC",
+        "chain": "BNB Chain",
+        "protocol": "ACryptoS",
+        "rewards_token": {
+            "ACS": 0.009499999999999993
+        },
+        "risk": 3,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_BNB Chain_Alpaca": {
+        "name": "USDC",
+        "chain": "BNB Chain",
+        "protocol": "Alpaca",
+        "rewards_token": {
+            "ALPACA": 0.024407429137018634
+        },
+        "risk": 1,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_BNB Chain_Belt": {
+        "name": "USDC",
+        "chain": "BNB Chain",
+        "protocol": "Belt",
+        "rewards_token": {
+            "BELT": 0.0335
+        },
+        "risk": 2,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_BNB Chain_cBridge": {
+        "name": "USDC",
+        "chain": "BNB Chain",
+        "protocol": "cBridge",
+        "rewards_token": {
+            "CELR": 0.15018527891708056
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_BNB Chain_Cream": {
+        "name": "USDC",
+        "chain": "BNB Chain",
+        "protocol": "Cream",
+        "rewards_token": {},
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_BNB Chain_Venus": {
+        "name": "USDC",
+        "chain": "BNB Chain",
+        "protocol": "Venus",
+        "rewards_token": {
+            "XVS": 0.010300175924843199
+        },
+        "risk": 2,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Boba_cBridge": {
+        "name": "USDC",
+        "chain": "Boba",
+        "protocol": "cBridge",
+        "rewards_token": {
+            "CELR": 0.11305245222553229
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Ethereum_Aave": {
+        "name": "USDC",
+        "chain": "Ethereum",
+        "protocol": "Aave",
+        "rewards_token": {
+            "AAVE": 0.003941065479733733
+        },
+        "risk": 1,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Ethereum_Bancor": {
+        "name": "USDC",
+        "chain": "Ethereum",
+        "protocol": "Bancor",
+        "rewards_token": {},
+        "risk": 1,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Ethereum_cBridge": {
+        "name": "USDC",
+        "chain": "Ethereum",
+        "protocol": "cBridge",
+        "rewards_token": {
+            "CELR": 0.15836713637393984
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Ethereum_Compound": {
+        "name": "USDC",
+        "chain": "Ethereum",
+        "protocol": "Compound",
+        "rewards_token": {
+            "COMP": 0.007736007140569656
+        },
+        "risk": 1,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Ethereum_Maple": {
+        "name": "USDC",
+        "chain": "Ethereum",
+        "protocol": "Maple",
+        "rewards_token": {
+            "MPL": 0.0976
+        },
+        "risk": 1,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Ethereum_Mushroom": {
+        "name": "USDC",
+        "chain": "Ethereum",
+        "protocol": "Mushroom",
+        "rewards_token": {
+            "MM": 0.040984945557085116
+        },
+        "risk": 4,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Ethereum_Notional": {
+        "name": "USDC",
+        "chain": "Ethereum",
+        "protocol": "Notional",
+        "rewards_token": {},
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Ethereum_Yearn": {
+        "chain": "Ethereum",
+        "protocol": "Yearn",
+        "rewards_token": {},
+        "risk": 1,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Fantom_Autofarm": {
+        "name": "USDC",
+        "chain": "Fantom",
+        "protocol": "Autofarm",
+        "rewards_token": {},
+        "risk": 3,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Fantom_Beefy": {
+        "name": "USDC",
+        "chain": "Fantom",
+        "protocol": "Beefy",
+        "rewards_token": {},
+        "risk": 2,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Fantom_cBridge": {
+        "name": "USDC",
+        "chain": "Fantom",
+        "protocol": "cBridge",
+        "rewards_token": {
+            "CELR": 0.06657793002580137
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Fantom_Cream": {
+        "name": "USDC",
+        "chain": "Fantom",
+        "protocol": "Cream",
+        "rewards_token": {},
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Fantom_Geist": {
+        "name": "USDC",
+        "chain": "Fantom",
+        "protocol": "Geist",
+        "rewards_token": {
+            "GEIST": 0.010466477690897077
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Fantom_IronBank": {
+        "name": "USDC",
+        "chain": "Fantom",
+        "protocol": "IronBank",
+        "rewards_token": {},
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Fantom_Scream": {
+        "name": "USDC",
+        "chain": "Fantom",
+        "protocol": "Scream",
+        "rewards_token": {
+            "SCREAM": 0.0151
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Fantom_Tarot": {
+        "name": "USDC",
+        "chain": "Fantom",
+        "protocol": "Tarot",
+        "rewards_token": {},
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Fantom_Yearn": {
+        "name": "USDC",
+        "chain": "Fantom",
+        "protocol": "Yearn",
+        "rewards_token": {},
+        "risk": 1,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Harmony_cBridge": {
+        "name": "USDC",
+        "chain": "Harmony",
+        "protocol": "cBridge",
+        "rewards_token": {
+            "CELR": 0.10808543875561516
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Optimism_cBridge": {
+        "name": "USDC",
+        "chain": "Optimism",
+        "protocol": "cBridge",
+        "rewards_token": {
+            "CELR": 0.14392997455958567
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Polygon_Aave": {
+        "name": "USDC",
+        "chain": "Polygon",
+        "protocol": "Aave",
+        "rewards_token": {},
+        "risk": 1,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Polygon_Autofarm": {
+        "name": "USDC",
+        "chain": "Polygon",
+        "protocol": "Autofarm",
+        "rewards_token": {
+            "AUTO": 0.14789181854899236
+        },
+        "risk": 3,
+        "is_new": true,
+        "active": true
+    },
+    "USDC_Polygon_cBridge": {
+        "name": "USDC",
+        "chain": "Polygon",
+        "protocol": "cBridge",
+        "rewards_token": {
+            "CELR": 0.19471582763422468
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Polygon_Cream": {
+        "name": "USDC",
+        "chain": "Polygon",
+        "protocol": "Cream",
+        "rewards_token": {},
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Polygon_Mushroom": {
+        "name": "USDC",
+        "chain": "Polygon",
+        "protocol": "Mushroom",
+        "rewards_token": {
+            "MM": 0.0013962476977420282
+        },
+        "risk": 4,
+        "is_new": false,
+        "active": true
+    },
+    "USDC_Waves_Vires": {
+        "name": "USDC",
+        "chain": "Waves",
+        "protocol": "Vires",
+        "rewards_token": {
+            "VIRES": 0.011616560940901867
+        },
+        "risk": 0,
+        "is_new": false,
+        "active": true
+    }
+}
